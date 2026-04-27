@@ -1,0 +1,16 @@
+{
+  "iri": "lnwuk",
+  "projectIri": "4a4a0091-140b-4998-8154-6773c51fdf9d",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Default local model"
+    }
+  },
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

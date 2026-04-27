@@ -1,0 +1,59 @@
+{
+  "type": "http://dataspecer.com/resources/local/semantic-model",
+  "modelId": "lnwuk",
+  "modelAlias": "Default local model",
+  "baseIri": "",
+  "entities": {
+    "mr7mv775h6mohbncfz": {
+      "iri": "ripeLife",
+      "name": {
+        "en": "Ripe Life"
+      },
+      "description": {},
+      "externalDocumentationUrl": null,
+      "id": "mr7mv775h6mohbncfz",
+      "type": [
+        "class"
+      ]
+    },
+    "9z7cf035nokmohbnibp": {
+      "iri": "sharpHome",
+      "name": {
+        "en": "Sharp Home"
+      },
+      "description": {},
+      "externalDocumentationUrl": null,
+      "id": "9z7cf035nokmohbnibp",
+      "type": [
+        "class"
+      ]
+    },
+    "5mm61j3vsn4mohbnibv": {
+      "ends": [
+        {
+          "iri": null,
+          "name": {},
+          "description": {},
+          "concept": "mr7mv775h6mohbncfz",
+          "externalDocumentationUrl": null
+        },
+        {
+          "name": {
+            "en": "Quaint Guy"
+          },
+          "description": {},
+          "concept": "9z7cf035nokmohbnibp",
+          "iri": "quaintGuy",
+          "externalDocumentationUrl": ""
+        }
+      ],
+      "id": "5mm61j3vsn4mohbnibv",
+      "type": [
+        "relationship"
+      ],
+      "iri": null,
+      "name": {},
+      "description": {}
+    }
+  }
+}

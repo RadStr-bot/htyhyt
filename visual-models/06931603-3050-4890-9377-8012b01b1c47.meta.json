@@ -1,0 +1,12 @@
+{
+  "iri": "nydbyh",
+  "projectIri": "06931603-3050-4890-9377-8012b01b1c47",
+  "types": [
+    "http://dataspecer.com/resources/local/visual-model"
+  ],
+  "userMetadata": {},
+  "metadata": {},
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}

@@ -1,0 +1,16 @@
+{
+  "identifier": "dc9ccd19-ae3d-4786-a792-ff8efe8fd06b",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "identifier": "dc9ccd19-ae3d-4786-a792-ff8efe8fd06b-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "Anonymous model"
+      }
+    }
+  ]
+}

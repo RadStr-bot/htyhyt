@@ -1,0 +1,57 @@
+{
+  "identifier": "nydbyh",
+  "version": 1,
+  "type": "http://dataspecer.com/resources/local/visual-model",
+  "entities": [
+    {
+      "identifier": "nydbyh-model-metadata-entity",
+      "type": [
+        "entity-model-type"
+      ],
+      "label": {
+        "en": "Visual Model"
+      }
+    },
+    {
+      "model": "lnwuk",
+      "representedEntity": "mr7mv775h6mohbncfz",
+      "position": {
+        "x": 480,
+        "y": 310,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "j45h8"
+    },
+    {
+      "model": "lnwuk",
+      "representedEntity": "9z7cf035nokmohbnibp",
+      "position": {
+        "x": 780,
+        "y": 200,
+        "anchored": null
+      },
+      "content": [],
+      "visualModels": [],
+      "type": [
+        "visual-node"
+      ],
+      "identifier": "3t838"
+    },
+    {
+      "model": "lnwuk",
+      "representedRelationship": "5mm61j3vsn4mohbnibv",
+      "waypoints": [],
+      "visualSource": "j45h8",
+      "visualTarget": "3t838",
+      "type": [
+        "visual-relationship"
+      ],
+      "identifier": "svqu5"
+    }
+  ]
+}
